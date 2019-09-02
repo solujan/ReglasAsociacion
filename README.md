@@ -18,5 +18,5 @@ Repositorio para la materia deAprendizaje No Supervisado de #DiploDatos de FaMAF
 
 * con [Anaconda](https://www.anaconda.com/distribution/) (probado en Linux con anaconda=2019.03)
 * con [Colab](https://colab.research.google.com/) agregando la ruta del notebook a github (probado al 3/5/2019):
-    * reglasAsociacionTrabajoPractico: https://colab.research.google.com/github/DiploDatos/AnalisisYCuracion/blob/master/notebooks/Limpieza.ipynb
+    * reglasAsociacionTrabajoPractico: https://colab.research.google.com/drive/1WT1_7GrvzF-7eIprFVoQWBkIsi8E8NKp
 
